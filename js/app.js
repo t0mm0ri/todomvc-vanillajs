@@ -1,7 +1,7 @@
 /*global app, $on */
 (function () {
 	'use strict';
-
+	console.log('aaaa');
 	/**
 	 * Sets up a brand new Todo list.
 	 *
